@@ -22,3 +22,7 @@ body{
     height: 100%;
     border: solid 2px;
 }
+.open{
+    flex: 5;
+    font-size: 40px;
+}
